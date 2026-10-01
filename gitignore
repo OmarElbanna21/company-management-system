@@ -1,0 +1,4 @@
+# build output
+company
+company.exe
+*.o
